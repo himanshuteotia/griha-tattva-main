@@ -1,0 +1,8 @@
+# The site is a single self-contained file (index.html). Everything below is
+# either the working source, a backup, or assets already embedded in the bundle.
+Griha Tattva (Standalone).html
+Griha Tattva (Standalone).backup.html
+*.backup.html
+logo/
+product-images/
+.claude/

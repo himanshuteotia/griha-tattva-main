@@ -1,0 +1,12 @@
+# Vercel
+.vercel
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Local Claude Code settings (keep launch.json, ignore personal/local)
+.claude/settings.local.json
+
+# Working backup of the bundle
+*.backup.html
